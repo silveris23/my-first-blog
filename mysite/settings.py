@@ -25,7 +25,7 @@ SECRET_KEY = '$%c7fy6)v+@@myu+=^^kz#5fi%#^u9ow(1k$0y4$6=g@z^dd(s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['silveris23.pythonanywhere.com','localhost','0.0.0.0']
 
 
 # Application definition
